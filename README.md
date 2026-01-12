@@ -12,13 +12,13 @@
 ---
 
 
-## 💼 About Me
+## 💼 Some WordsAbout Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Data Analytics Animation"/>
 
 ### Hello! 👋
 
-**Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. 
+I am a **Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** <br> using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. 
 
 My expertise spans data modeling, ETL/ELT pipelines, predictive analytics, and delivering actionable insights that drive business impact. With a strong foundation in SQL, Python, and modern BI tools, I help stakeholders make confident, data-driven decisions.
 
