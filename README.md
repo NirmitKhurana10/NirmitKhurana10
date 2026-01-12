@@ -12,9 +12,29 @@
 
 ## 💼 About Me
 
-**Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**. I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies. 
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Throughout my career, I've **improved forecast accuracy** that directly enhanced planning outcomes, **reduced waste and errors** through data-driven process optimization, and **eliminated manual reporting effort** by engineering automated solutions. By enabling faster root-cause analysis through structured data reviews and aligning insights with real business questions, I help stakeholders make confident, timely decisions that drive measurable impact. 📊✨
+**Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**. 
+
+I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies.
+
+Throughout my career, I've:
+- **Improved forecast accuracy** that directly enhanced planning outcomes
+- **Reduced waste and errors** through data-driven process optimization
+- **Eliminated manual reporting effort** by engineering automated solutions
+
+By enabling faster root-cause analysis and aligning insights with real business questions, I help stakeholders make confident, timely decisions that drive measurable impact. 📊✨
+
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/NirmitKhurana10/NirmitKhurana10/main/coding_office_workspace.png" alt="Coding Workspace" width="100%"/>
+
+</td>
+</tr>
+</table> 
 
 ---
 
@@ -48,11 +68,32 @@ Throughout my career, I've **improved forecast accuracy** that directly enhanced
 - 📊 Business Analysis & Requirements Gathering
 - 🎨 Data Visualization & Storytelling
 - ⚡ Process Automation
-- 🤖 AI-Driven Analytics
 - 📈 Predictive Analytics
 - 🧠 AML (Anti-Money Laundering)
 
+
 ---
+
+## 📊 This Week I Spent My Time On
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/YOUR-USER-ID.svg)](https://wakatime.com/@YOUR-USER-ID)
+
+<!--START_SECTION:waka-->
+```text
+Power BI     12 hrs 45 mins  ████████████████░░░░░   65.23 %
+SQL          4 hrs 20 mins   █████░░░░░░░░░░░░░░░░   22.15 %
+Python       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░   07.68 %
+Markdown     32 mins         █░░░░░░░░░░░░░░░░░░░░   02.76 %
+Other        25 mins         ░░░░░░░░░░░░░░░░░░░░░   02.18 %
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
 
 ## 🚀 What I'm Currently Working On
 
