@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
 
-</div>
-
----
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NirmitKhurana10&color=blue&style=for-the-badge)
 
