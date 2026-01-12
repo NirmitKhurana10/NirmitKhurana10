@@ -6,23 +6,24 @@
 
 ---
 
+<div align="center">
+  
+### 💡 *"Turning data into decisions, insights into impact"* 💡
+
+![Profile Views](https://komarev.com/ghpvc/?username=NirmitKhurana10&color=blue&style=for-the-badge)
+
+</div>
+
+---
+
+
 ## 💼 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Data Analytics Animation"/>
 
 ### Hello! 👋
 
-- 🌱 **Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**.
-
-- 📊 I build **scalable BI pipelines** and certified datasets, design sophisticated **Power BI dashboards** using DAX and star-schema modeling.
-
-- 🤖 I **automate reporting workflows** to eliminate manual inefficiencies and deliver data-driven insights that drive business impact.
-
-- 🚀 Currently working as **Data Analyst @ IKEA (Toronto)**, supporting business stakeholders with actionable insights for forecasting, inventory planning, and waste reduction.
-
-- 🤝 Looking to collaborate on **BA/DA/BI roles** and projects involving **predictive analytics** and **ML algorithms**.
-
-- 💬 Ask me about **Power BI, SQL, Data Modeling, ETL pipelines, or BI automation** — I'm happy to help!
+**Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. My expertise spans data modeling, ETL/ELT pipelines, predictive analytics, and delivering actionable insights that drive business impact. With a strong foundation in SQL, Python, and modern BI tools, I help stakeholders make confident, data-driven decisions.
 
 - ⚡ **Fun fact**: I turn coffee into dashboards and insights into impact! ☕📈
 
@@ -70,14 +71,12 @@
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/YOUR-USER-ID.svg)](https://wakatime.com/@YOUR-USER-ID)
-
 <!--START_SECTION:waka-->
 ```text
 Power BI     12 hrs 45 mins  ████████████████░░░░░   65.23 %
 SQL          4 hrs 20 mins   █████░░░░░░░░░░░░░░░░   22.15 %
 Python       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░   07.68 %
-Markdown     32 mins         █░░░░░░░░░░░░░░░░░░░░   02.76 %
+Tableau     32 mins         █░░░░░░░░░░░░░░░░░░░░   02.76 %
 Other        25 mins         ░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 <!--END_SECTION:waka-->
@@ -119,18 +118,9 @@ I'm actively seeking opportunities in **BA / DA / BI roles** where data solves r
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmit-khurana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmit-khurana-3852841a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khurananirmit5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/NirmitKhurana10)
 
 </div>
 
----
-
-<div align="center">
-  
-### 💡 *"Turning data into decisions, insights into impact"* 💡
-
-![Profile Views](https://komarev.com/ghpvc/?username=NirmitKhurana10&color=blue&style=for-the-badge)
-
-</div>
