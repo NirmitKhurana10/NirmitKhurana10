@@ -12,7 +12,7 @@
 ---
 
 
-## 💼 Some WordsAbout Me
+## 💼 Some Words About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Data Analytics Animation"/>
 
@@ -20,9 +20,9 @@
 
 I am a **Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. 
 
-My expertise spans data modeling, ETL/ELT pipelines, predictive analytics, and delivering actionable insights that drive business impact. With a strong foundation in SQL, Python, and modern BI tools, I help stakeholders make confident, data-driven decisions.
 
-- ⚡ **Fun fact**: I turn coffee into dashboards and insights into impact! ☕📈
+
+⚡ **Fun fact**: I turn coffee into dashboards and insights into impact ☕📈
 
 <br clear="right"/> 
 
@@ -119,12 +119,6 @@ I'm actively seeking opportunities in **BA / DA / BI roles** where data solves r
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khurananirmit5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/NirmitKhurana10)
 
-</div>
-
----
-
-<div align="center">
-  
 ### 💡 *"Turning data into decisions, insights into impact"* 💡
 
 </div>
