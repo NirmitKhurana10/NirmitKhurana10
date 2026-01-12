@@ -67,7 +67,7 @@ I turn coffee ☕️ into dashboards 📈 and insights 🔢 into impact 🧨
 
 ## 🎓 Courses and Certifications
 
-![IBM Data Science Associate](https://img.shields.io/badge/IBM_Data_Science_Associate-IBM-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Data Science Associate](https://img.shields.io/badge/IBM_Data_Science_Associate-IBM-0062FF?style=for-the-badge&logo=IBM&logoColor=white)
 ![Data Analytics Essentials](https://img.shields.io/badge/Data_Analytics_Specialization-CISCO-00BCB4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Jira and Project Management](https://img.shields.io/badge/Jira_Project_Management-GreatLearning-FF6B35?style=for-the-badge&logo=JIRA&logoColor=white)
 ![Introduction to Data Analytics](https://img.shields.io/badge/Introduction_to_Data_Analytics-SimpliLearn-4285F4?style=for-the-badge&logo=simplilearn&logoColor=white)
