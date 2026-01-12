@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Nirmit Khurana
+# 👋 Hi, I'm Sukhman Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Data+Analytics+Professional;Python+%7C+SQL+%7C+Machine+Learning" alt="Typing SVG" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NirmitKhurana10&color=blue&style=for-the-badge)
@@ -18,11 +18,9 @@
 
 ### Hello! 👋
 
-I am a **Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. 
+Welcome to my GitHub profile! I'm **Sukhman Singh**, a **Data Science enthusiast** with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
-
-
-⚡ **Fun fact**: I turn coffee into dashboards and insights into impact ☕📈
+⚡ **Fun fact**: I turn coffee into insights and data into decisions ☕�
 
 <br clear="right"/> 
 
@@ -36,6 +34,8 @@ I am a **Business Intelligence & Data Analytics Professional** with hands-on exp
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -61,6 +61,15 @@ I am a **Business Intelligence & Data Analytics Professional** with hands-on exp
 - 📈 Predictive Analytics
 - 🧠 AML (Anti-Money Laundering)
 
+
+---
+
+## 🎓 Courses
+
+![IBM Data Science Associate](https://img.shields.io/badge/IBM_AI_Engineering-Specialization-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
+![Data Analytics Essentials](https://img.shields.io/badge/Data_Science-Specialization-00BCB4?style=for-the-badge&logo=cisco&logoColor=white)
+![Jira and Project Management](https://img.shields.io/badge/Applied_Data_Science-Specialization-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Introduction to Data Analytics](https://img.shields.io/badge/Introduction_to_Data_Science-Specialization-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
