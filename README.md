@@ -2,25 +2,21 @@
   
 # 👋 Hi, I'm Nirmit Khurana
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Analytics Animation"/>
-
 </div>
 
 ---
 
 ## 💼 About Me
 
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Data Analytics Animation"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Analytics Animation"/>
-
-<br clear="both"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&vCenter=true&width=500&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
 
 **Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**. 
 
-I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies. 
+I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies.
+
+<br clear="right"/> 
 
 ---
 
