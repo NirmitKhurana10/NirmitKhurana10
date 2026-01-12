@@ -12,19 +12,9 @@
 
 ## 💼 About Me
 
-**Business Intelligence & Data Analytics Professional** with hands-on experience delivering data-driven insights, operational dashboards, and automated reporting solutions across **retail and financial services**.
+**Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**. I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies. 
 
-**Core Focus:**
-- 📊 Building scalable BI pipelines and certified datasets
-- 📈 Designing Power BI dashboards using DAX and star-schema modeling  
-- 🤖 Automating reporting workflows to eliminate manual effort and data inconsistencies
-- 🎯 Supporting business operations through KPI tracking, variance analysis, and trend identification
-
-**Key Achievements:**
-- ✅ Improved forecast accuracy and planning outcomes
-- ✅ Reduced waste, errors, and manual reporting effort
-- ✅ Enabled faster root-cause analysis through structured data reviews
-- ✅ Delivered insights aligned with real business questions—not just metrics
+Throughout my career, I've **improved forecast accuracy** that directly enhanced planning outcomes, **reduced waste and errors** through data-driven process optimization, and **eliminated manual reporting effort** by engineering automated solutions. By enabling faster root-cause analysis through structured data reviews and aligning insights with real business questions, I help stakeholders make confident, timely decisions that drive measurable impact. 📊✨
 
 ---
 
@@ -47,6 +37,8 @@
 
 ### Data Engineering & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -95,22 +87,8 @@ I'm actively seeking opportunities in **BA / DA / BI roles** where data solves r
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmit-khurana)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmit.khurana@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khurananirmit5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/NirmitKhurana10)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Nirmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirmitKhurana10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmitKhurana10&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NirmitKhurana10&theme=tokyonight&hide_border=true)
 
 </div>
 
