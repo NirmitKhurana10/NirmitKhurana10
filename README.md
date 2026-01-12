@@ -12,29 +12,15 @@
 
 ## 💼 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Analytics Animation"/>
+
+<br clear="both"/>
 
 **Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**. 
 
-I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies.
-
-Throughout my career, I've:
-- **Improved forecast accuracy** that directly enhanced planning outcomes
-- **Reduced waste and errors** through data-driven process optimization
-- **Eliminated manual reporting effort** by engineering automated solutions
-
-By enabling faster root-cause analysis and aligning insights with real business questions, I help stakeholders make confident, timely decisions that drive measurable impact. 📊✨
-
-</td>
-<td width="40%">
-
-<img src="https://raw.githubusercontent.com/NirmitKhurana10/NirmitKhurana10/main/coding_office_workspace.png" alt="Coding Workspace" width="100%"/>
-
-</td>
-</tr>
-</table> 
+I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies. 
 
 ---
 
