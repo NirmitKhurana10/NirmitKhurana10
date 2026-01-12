@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Sukhman Singh
+# 👋 Hi, I'm Nirmit Khurana
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Data+Analytics+Professional;Python+%7C+SQL+%7C+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NirmitKhurana10&color=blue&style=for-the-badge)
@@ -18,7 +18,7 @@
 
 ### Hello! 👋
 
-Welcome to my GitHub profile! I'm **Sukhman Singh**, a **Data Science enthusiast** with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
+Welcome to my GitHub profile! I am **Nirmit Khurana**, a **Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies.
 
 
 I turn coffee ☕️ into dashboards 📈 and insights 🔢 into impact 🧨
