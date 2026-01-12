@@ -21,8 +21,7 @@
 I am a **Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. 
 
 
-
-⚡ **Fun fact**: I turn coffee into dashboards and insights into impact ☕📈
+I turn coffee ☕️ into dashboards 📈 and insights 🔢 into impact 🧨
 
 <br clear="right"/> 
 
