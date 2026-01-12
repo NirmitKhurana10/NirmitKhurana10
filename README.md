@@ -2,6 +2,8 @@
   
 # 👋 Hi, I'm Nirmit Khurana
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -23,7 +25,9 @@
 
 ### Hello! 👋
 
-**Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. My expertise spans data modeling, ETL/ELT pipelines, predictive analytics, and delivering actionable insights that drive business impact. With a strong foundation in SQL, Python, and modern BI tools, I help stakeholders make confident, data-driven decisions.
+**Business Intelligence & Data Analytics Professional** with hands-on experience transforming raw data into strategic insights across **retail and financial services**. I specialize in building scalable BI pipelines and certified datasets, designing sophisticated **Power BI dashboards** using DAX and star-schema modeling, and automating reporting workflows to eliminate manual inefficiencies. 
+
+My expertise spans data modeling, ETL/ELT pipelines, predictive analytics, and delivering actionable insights that drive business impact. With a strong foundation in SQL, Python, and modern BI tools, I help stakeholders make confident, data-driven decisions.
 
 - ⚡ **Fun fact**: I turn coffee into dashboards and insights into impact! ☕📈
 
@@ -73,11 +77,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Power BI     12 hrs 45 mins  ████████████████░░░░░   65.23 %
-SQL          4 hrs 20 mins   █████░░░░░░░░░░░░░░░░   22.15 %
-Python       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░   07.68 %
-Tableau     32 mins         █░░░░░░░░░░░░░░░░░░░░   02.76 %
-Other        25 mins         ░░░░░░░░░░░░░░░░░░░░░   02.18 %
+SQL          14 hrs 30 mins  ████████████████████░   45.23 %
+Python       8 hrs 15 mins   ██████████░░░░░░░░░░░   25.68 %
+Tableau      4 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   14.82 %
+Excel        3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░   09.89 %
+Power BI     1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 <!--END_SECTION:waka-->
 
