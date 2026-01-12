@@ -20,7 +20,8 @@
 
 Welcome to my GitHub profile! I'm **Sukhman Singh**, a **Data Science enthusiast** with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
-⚡ **Fun fact**: I turn coffee into insights and data into decisions ☕�
+
+I turn coffee ☕️ into dashboards 📈 and insights 🔢 into impact 🧨
 
 <br clear="right"/> 
 
