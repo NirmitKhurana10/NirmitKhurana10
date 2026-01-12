@@ -8,13 +8,23 @@
 
 ## 💼 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Data Analytics Animation"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Data Analytics Animation"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&vCenter=true&width=500&lines=Business+Intelligence+Analyst;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Automation" alt="Typing SVG" />
+### Hello! 👋
 
-**Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**. 
+- 🌱 **Business Intelligence & Data Analytics Professional** transforming raw data into strategic insights across **retail and financial services**.
 
-I build scalable BI pipelines and certified datasets, design sophisticated Power BI dashboards using DAX and star-schema modeling, and automate reporting workflows to eliminate manual inefficiencies.
+- 📊 I build **scalable BI pipelines** and certified datasets, design sophisticated **Power BI dashboards** using DAX and star-schema modeling.
+
+- 🤖 I **automate reporting workflows** to eliminate manual inefficiencies and deliver data-driven insights that drive business impact.
+
+- 🚀 Currently working as **Data Analyst @ IKEA (Toronto)**, supporting business stakeholders with actionable insights for forecasting, inventory planning, and waste reduction.
+
+- 🤝 Looking to collaborate on **BA/DA/BI roles** and projects involving **predictive analytics** and **ML algorithms**.
+
+- 💬 Ask me about **Power BI, SQL, Data Modeling, ETL pipelines, or BI automation** — I'm happy to help!
+
+- ⚡ **Fun fact**: I turn coffee into dashboards and insights into impact! ☕📈
 
 <br clear="right"/> 
 
