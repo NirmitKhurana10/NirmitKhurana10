@@ -127,7 +127,7 @@ I'm actively seeking opportunities in **BA / DA / BI roles** where data solves r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmit-khurana-3852841a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khurananirmit5@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/NirmitKhurana10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nirmitkhurana.site)
 
 ### 💡 *"Turning data into decisions, insights into impact"* 💡
 
